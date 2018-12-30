@@ -40,3 +40,4 @@ make build
 cd /usr/src/releasetools
 make hdboot
 reboot  (Note: hit 2 on startup)
+
